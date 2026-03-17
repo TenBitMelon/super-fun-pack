@@ -1,0 +1,11 @@
+name = "Super Fun Pack"
+creator = "TenBitMelon"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "36db577c3dad9017e342128ae115239b848700d6ef5cd6d5806ab0c1aeaefa02"
+
+[versions]
+minecraft = "1.21.11"
+neoforge = "21.11.38-beta"
